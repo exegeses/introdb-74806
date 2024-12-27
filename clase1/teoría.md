@@ -10,6 +10,7 @@
 
 > existen las bases de datos relacionales (que tienen álgebra relacional) 
 > Algunos ejemplos de bases de datos relacionales son:
+ 
     Oracle
     MySQL
     IBMDB2
