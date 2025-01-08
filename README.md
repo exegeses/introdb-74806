@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
 > Curso de Introducción a las Bases de datos |      
-> Martes y Jueves de 19hs a 22hs (Arg) |      
+> Martes y Jueves de 19hs a 21hs (Arg) |      
 > 9 clases |      
 > Desde 26/12/2024 hasta 28/01/2025 |     
 > Código 74806 |    
