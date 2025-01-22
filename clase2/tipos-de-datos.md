@@ -22,8 +22,8 @@
 
     char        255  
     varchar     65535  
-    tinyText    
-    smallText  
+    tinyText    255
+    smallText   65535
     mediumText  
     Text       
 
