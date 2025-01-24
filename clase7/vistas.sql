@@ -23,3 +23,7 @@ CREATE VIEW lista_precios
 ### Llamado a ejecución de una vista
 SELECT * FROM lista_precios;
 
+-- Obtener listado de las vistas dentro de una base de datos
+SHOW FULL TABLES
+    IN introdb
+    WHERE Table_type = 'VIEW';
